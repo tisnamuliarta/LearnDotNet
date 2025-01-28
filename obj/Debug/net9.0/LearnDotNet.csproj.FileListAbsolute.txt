@@ -1,0 +1,14 @@
+E:\netApps\LearnDotNet\bin\Debug\net9.0\LearnDotNet.exe
+E:\netApps\LearnDotNet\bin\Debug\net9.0\LearnDotNet.deps.json
+E:\netApps\LearnDotNet\bin\Debug\net9.0\LearnDotNet.runtimeconfig.json
+E:\netApps\LearnDotNet\bin\Debug\net9.0\LearnDotNet.dll
+E:\netApps\LearnDotNet\bin\Debug\net9.0\LearnDotNet.pdb
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.AssemblyInfoInputs.cache
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.AssemblyInfo.cs
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.csproj.CoreCompileInputs.cache
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.dll
+E:\netApps\LearnDotNet\obj\Debug\net9.0\refint\LearnDotNet.dll
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.pdb
+E:\netApps\LearnDotNet\obj\Debug\net9.0\LearnDotNet.genruntimeconfig.cache
+E:\netApps\LearnDotNet\obj\Debug\net9.0\ref\LearnDotNet.dll
